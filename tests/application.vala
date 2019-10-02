@@ -15,7 +15,7 @@ public class MyApplication : Gtk.Application {
         widget.set_valign (Gtk.Align.CENTER);
         window.add (widget);
         window.show_all ();
-        widget.activate.connect (()=> {
+        widget.activate.connect (() => {
             print ("[%s]\n", widget.get_text ());
         });
     }
