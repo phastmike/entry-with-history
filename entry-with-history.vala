@@ -1,5 +1,5 @@
 /* -*- Mode: Vala; indent-tabs-mode: nil; c-basic-offset: 4; tab-width: 4 -*- */
-/* vim: set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab : */
+/* vim: set tabstop=4 softtabstop=4 shiftwidth=4 expandtab : */
 /*
  * entry-with-history.vala
  *
