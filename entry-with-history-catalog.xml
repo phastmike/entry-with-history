@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glade-catalog name="EntryWithHistoryCatalog" depends="gtk+">
+  <glade-widget-classes>
+    <glade-widget-class name="EntryWithHistory" generic-name="entrywithhistory"
+      title="EntryWithHistory" parent="GtkEntry" />
+    </glade-widget-classes>
+
+  <glade-widget-group name="my-widgets" title="MyWidgets">
+    <glade-widget-class-ref name="EntryWithHistory" />
+  </glade-widget-group>
+</glade-catalog>
